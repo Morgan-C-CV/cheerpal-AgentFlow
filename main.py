@@ -1,7 +1,7 @@
 import os
-from uudagong.soundModule import record_audio, convert_speech_to_text
-from uudagong.thinkingModule import get_model_response
-from uudagong.lightingModule import adjust_lighting, restore_lighting
+from soundModule import record_audio, convert_speech_to_text
+from thinkingModule import get_model_response
+from lightingModule import adjust_lighting, restore_lighting
 
 
 def main():
