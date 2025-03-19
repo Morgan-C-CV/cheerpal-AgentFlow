@@ -28,6 +28,8 @@ RGB_R_PIN = 16
 RGB_G_PIN = 17
 RGB_B_PIN = 18
 
+SYSTEM_PROMPT = ""
+
 # 颜色配置
 COLORS = {
     'red': (255, 0, 0),
